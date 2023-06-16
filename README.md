@@ -55,6 +55,17 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
 - Editar almacén
 <img width="893" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/d68ef997-eaa6-4fc2-aeea-a82c8ee898cc">
 
+## Grafana
+- Productos
+<img width="468" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/3961c63c-6c1b-4004-9017-6d138de99c02">
+
+- Proveedores
+<img width="467" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/1cecf05a-b36e-48bd-83bc-476d27577eea">
+
+- almacenes
+<img width="468" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/89987914-580d-4fc9-922d-f722496f8df4">
+
+
 ## Resultado
 <img width="960" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/4a8dfdbf-bb2f-43b9-a567-6d4494df6720">
 <img width="959" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/c1b6db11-2d6a-4aad-972f-85e4081448d3">
@@ -63,7 +74,8 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
 - dashboard
 <img width="960" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/7181776f-8774-45ae-9643-cf7d2655aaa2">
 
-
+- link video
+https://youtu.be/EE_gVXz0QTI
 
 ## Elaborado por
 - David Galaviz Cruz
