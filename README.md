@@ -17,6 +17,8 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
      - Loadcell y amplificador HX711
 2. Instalado en la Raspberry pi
      - Node-red
+        - node-red-contrib-telegrambot
+        - node-red-node-mysql   
      - Grafana
      - LAMP
      - Mosquitto server
