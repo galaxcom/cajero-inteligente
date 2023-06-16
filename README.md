@@ -28,7 +28,7 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
 
 ## Software y flujo de información
 
-<img width="644" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/452403be-ed5a-49e8-9818-9e72f1ba4995">
+<img width="643" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/0f8fb645-e6f2-4b90-8456-25d21d271440">
 
 
 
