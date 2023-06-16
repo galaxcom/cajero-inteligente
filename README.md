@@ -35,6 +35,25 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
 1. Envío de notificaciones a Telegram
 <img width="930" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/b861f06f-803b-4674-8114-5cab261cd289">
 
+2. Inicialización del modelo
+<img width="607" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/c11af922-8029-4629-ac21-a1f616799b60">
+
+3. Registro de venta por peso
+- Obtiene el peso
+- Obtiene la imagen y la predicción
+- Guarda la venta en la base de datos
+- Mandar producto por MQTT
+<img width="938" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/cdf479e3-facb-4ca4-b7ca-08d4d716f6e0">
+
+4. Administración
+- Editar productos
+<img width="874" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/421b73c1-3420-49a7-8e29-5356eac26f89">
+- Editar proveedor
+<img width="889" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/ce9fc0c9-242f-48b3-84e6-71ee6c08323e">
+- Editar almacén
+<img width="893" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/d68ef997-eaa6-4fc2-aeea-a82c8ee898cc">
+
+
 
 ## Elaborado por
 - David Galaviz Cruz
