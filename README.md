@@ -60,6 +60,10 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
 <img width="959" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/c1b6db11-2d6a-4aad-972f-85e4081448d3">
 <img width="960" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/699d1bb9-3977-40a9-bf7a-1db53d6df8b8">
 
+- dashboard
+<img width="960" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/7181776f-8774-45ae-9643-cf7d2655aaa2">
+
+
 
 ## Elaborado por
 - David Galaviz Cruz
