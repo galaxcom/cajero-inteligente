@@ -48,8 +48,10 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
 4. Administración
 - Editar productos
 <img width="874" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/421b73c1-3420-49a7-8e29-5356eac26f89">
+
 - Editar proveedor
 <img width="889" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/ce9fc0c9-242f-48b3-84e6-71ee6c08323e">
+
 - Editar almacén
 <img width="893" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/d68ef997-eaa6-4fc2-aeea-a82c8ee898cc">
 
