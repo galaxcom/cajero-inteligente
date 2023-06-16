@@ -22,8 +22,13 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
      - Mosquitto server
 3. Instalado en la pc
      - Arduino IDE
-## Circuito
+## Diseño de circuito
 
 <img width="542" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/f57c19ec-128e-43bb-a644-7ccac69bdecf">
+
+## Software y flujo de información
+
+<img width="644" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/452403be-ed5a-49e8-9818-9e72f1ba4995">
+
 
 
