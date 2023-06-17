@@ -33,7 +33,9 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
 <img width="643" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/0f8fb645-e6f2-4b90-8456-25d21d271440">
 
 ## Node-red flow
-
+### Comando para levantar el servicio
+node-red start
+### flow
 1. Envío de notificaciones a Telegram
 <img width="930" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/b861f06f-803b-4674-8114-5cab261cd289">
 
@@ -58,6 +60,9 @@ La implementación de un sistema de pesaje más avanzado y automatizado en los s
 <img width="893" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/d68ef997-eaa6-4fc2-aeea-a82c8ee898cc">
 
 ## Grafana
+### Comando para levantar el servicio
+sudo /bin/systemctl start grafana-server
+### Tablas
 - Productos
 <img width="468" alt="image" src="https://github.com/galaxcom/cajero-inteligente/assets/33261737/3961c63c-6c1b-4004-9017-6d138de99c02">
 
